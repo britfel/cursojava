@@ -12,4 +12,6 @@ https://github.com/professorisidro/Java_Uri
 
 http://www.professorisidro.com.br/wp-content/uploads/Resumao_GIT.pdf - subir arquivos no GIT
 
+http://www.professorisidro.com.br/manual-de-sobrevivencia-do-github/
+
 
